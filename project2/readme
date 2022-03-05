@@ -1,1 +1,6 @@
 
+Report of project2
+Name: Cui Jipeng ID:12132387
+In project-2, two class were written to store the value of the nodes coordinate and the element representing a spring connecting the two nodes. 
+And the class element contains the class metheod Length, Angle and ElementK, 
+in which length is used to calculate the length of element ,the Angle is used to calculate the angle of element and the ElementK is used to calculate the unit stiffness matrix. 
